@@ -1,0 +1,41 @@
+body {
+	background-image: url("kula.jpg");
+}
+.uvod {color: red;}
+.ikona {float: right;
+	border-radius: 7px}
+	.opis {padding-left: 15px;
+		padding-bottom: 10px;
+	}
+	.topnav{background-color: lightblue;
+		overflow: hidden;
+
+	}
+	.topnav a{float: left;
+		color: #000000;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-size: 17px;
+
+	}
+	.topnav a:hover{
+
+	}
+	.topnav a:active{
+
+	}
+	h1 {
+    color: white
+	}
+	p {color: black}
+
+	.lista {color: white}
+	b {color: #0101DF}
+	b {color: black}
+
+	mark {background-color: white
+	}
+
+	hr {background-color: white}
+
